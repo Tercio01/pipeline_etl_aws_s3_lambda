@@ -22,7 +22,7 @@ O fluxo de dados segue a seguinte arquitetura:
     * Converte o DataFrame processado para o formato **Apache Parquet**.
 4. **Armazenamento:** O arquivo Parquet resultante é salvo em outra pasta no mesmo bucket S3, servindo como nosso Data Lake.
 
-![Diagrama da Arquitetura](![Image](https://github.com/user-attachments/assets/34d6c5d2-5361-4379-9c5f-a5cb780df9a8))
+![Diagrama da Arquitetura](https://github.com/user-attachments/assets/34d6c5d2-5361-4379-9c5f-a5cb780df9a8)
 
 ---
 
